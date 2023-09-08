@@ -23,9 +23,9 @@ export class LogrosComponent implements OnInit {
       
     };
     let a2 = {
-      nombreAC: "Competencia de Habilidades de Programación ",
-      fecha: "2018",
-      descripcion:"Terecer lugar estatalmente", 
+      nombreAC: "Certificado de Pandas y Python en Kaggle ",
+      fecha: "2023",
+      descripcion:"Kaggle competence courses", 
       
     };
     this.logros.push(a);
